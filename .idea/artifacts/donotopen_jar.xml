@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="donotopen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/donotopen_jar</output-path>
+    <root id="archive" name="donotopen.jar">
+      <element id="module-output" name="donotopen" />
+    </root>
+  </artifact>
+</component>
